@@ -1,9 +1,7 @@
 //
 //  SceneDelegate.swift
 //  IOSAssignment
-//
 //  Created by Arun kumar Chauhan on 26/11/23.
-//
 
 import UIKit
 
